@@ -62,7 +62,4 @@ The UI includes:
 
 All styling is controlled entirely through `styles.css`.
 
----
-
-## 📂 Project Structure
 
